@@ -451,8 +451,23 @@ button:focus{
 }
 .why-text h5{
 	font-size: 28px;
-	font-weight: 600;
-	color: #ffffff;
+    font-weight: 600;
+   
+    color: #ffffff;
+    text-align: right;
+}
+
+.why-text a{
+	font-size: 20px;
+	font-weight: 300;
+    color: #ffffff;
+    text-align: right;
+    padding: 5px;
+    border: black 1px dashed;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+    
 }
 
 .gallery-single:hover .why-text{
